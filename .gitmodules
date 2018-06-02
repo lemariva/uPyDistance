@@ -1,0 +1,6 @@
+[submodule "ESP32-MicroPython"]
+	path = ESP32-MicroPython
+	url = https://github.com/lemariva/ESP32-MicroPython
+[submodule "ESP32MicroPython"]
+	path = ESP32MicroPython
+	url = https://github.com/lemariva/ESP32MicroPython
