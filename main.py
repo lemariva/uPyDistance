@@ -2,7 +2,7 @@ import gc
 import time
 import socket
 from uos import uname
-from hcsr04 import HCSR04
+from uPySensors.hcsr04 import HCSR04
 
 # creating object distance sensor
 if (uname().sysname == 'WiPy'):
